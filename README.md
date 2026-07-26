@@ -98,7 +98,7 @@ Proyecto académico en desarrollo. Próximas mejoras posibles:
 
 ## 👤 Autor
 
-**Theylor Ramírez** — Estudiante de Ingeniería de Sistemas, Universidad Nacional de Cajamarca.
+**Theylor Ramírez** — https://www.linkedin.com/in/theylor-ramirez-vasquez-4799112a6/
 
 ## 📄 Licencia
 
