@@ -99,7 +99,7 @@ Proyecto académico en desarrollo. Próximas mejoras posibles:
 ## 👤 Autor
 
 **Theylor Ramírez** 
-Linkedin: https://www.linkedin.com/in/theylor-ramirez-vasquez-4799112a6/
+**Linkedin** : https://www.linkedin.com/in/theylor-ramirez-vasquez-4799112a6/
 
 ## 📄 Licencia
 
