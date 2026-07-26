@@ -104,4 +104,4 @@ Proyecto académico en desarrollo. Próximas mejoras posibles:
 
 ## 📄 Licencia
 
-Este proyecto se distribuye con fines académicos.
+Este proyecto se distribuye con fines de producción.
