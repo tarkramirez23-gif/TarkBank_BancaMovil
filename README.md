@@ -1,6 +1,6 @@
 # TarkBank – Banca Móvil 📱💳
 
-Aplicación móvil de banca digital desarrollada como proyecto académico, construida de forma nativa con **Kotlin** y **Jetpack Compose**. Simula las funciones principales de una app bancaria moderna: inicio de sesión, gestión de tarjetas, transferencias, pago de servicios, Yape y más, todo con una interfaz Material 3 en tema azul marino y dorado.
+Aplicación móvil de banca digital desarrollada como proyecto para producción, construida de forma nativa con **Kotlin** y **Jetpack Compose**. Simula las funciones principales de una app bancaria moderna: inicio de sesión, gestión de tarjetas, transferencias, pago de servicios, Yape y más, todo con una interfaz Material 3 en tema azul marino y dorado.
 
 ## ✨ Funcionalidades
 
